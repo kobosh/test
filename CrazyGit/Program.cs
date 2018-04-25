@@ -8,5 +8,10 @@ namespace CrazyGit
         {
             Console.WriteLine("Hi there, branch1,test,test pull,changed version, removed core");
         }
+        public string SayIt()
+        {
+
+            return "hello";
+        }
     }
 }

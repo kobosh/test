@@ -1,0 +1,6 @@
+C:\Users\user\test\CrazyGit\bin\Debug\CrazyGit.exe.config
+C:\Users\user\test\CrazyGit\bin\Debug\CrazyGit.exe
+C:\Users\user\test\CrazyGit\bin\Debug\CrazyGit.pdb
+C:\Users\user\test\CrazyGit\obj\Debug\CrazyGit.csprojResolveAssemblyReference.cache
+C:\Users\user\test\CrazyGit\obj\Debug\CrazyGit.exe
+C:\Users\user\test\CrazyGit\obj\Debug\CrazyGit.pdb

@@ -1,6 +1,5 @@
-﻿using System;
+﻿using CrazyGit;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CrazyGit;
 namespace CraztGitTests
 {
     [TestClass]
@@ -18,9 +17,9 @@ namespace CraztGitTests
         [TestMethod]
         public void AddShouldReturnTen()
         {
-            int expected = 10;
+            int expected = 100;
             var sut = new Program();
-            int actual = sut.Add(5, 5);
+            int actual = sut.Add(50, 50);
             Assert.AreEqual(expected, actual);
 
         }

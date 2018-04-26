@@ -11,9 +11,18 @@ namespace CraztGitTests
         {
             string expected = "hello";
             var sut = new Program();
-            string  actual = sut.SayIt();
+            string actual = sut.SayIt();
             Assert.AreEqual(expected, actual);
-            
+
+        }
+        [TestMethod]
+        public void AddShouldReturnTen()
+        {
+            int expected = 10;
+            var sut = new Program();
+            int actual = sut.Add(5, 5);
+            Assert.AreEqual(expected, actual);
+
         }
     }
 }
